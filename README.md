@@ -13,10 +13,11 @@ For you guys, mainly autodidacts. There are a myriad of things we can do wrong o
 Pressing to much will produce notes out of tune, they will be to sharp (never flat).
 
 ##Pressing to soft
-buzzing
+buzzing occurs when you press not hard enough. This may especially happen with chords and runs you don't control very well.
+
 
 ##Pressing at wrong position (not near the fret)
-
+Pressing not near the fret in direction of the ringing string may produce buzzzing sounds.
 
 ##Using the wrong plektrum technique
 
