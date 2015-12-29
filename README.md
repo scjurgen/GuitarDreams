@@ -6,49 +6,59 @@ Fundamental playing mistakes guitar video
 For you guys, mainly autodidacts. There are a myriad of things we can do wrong on the guitar and we need to polish this until we got a shiny finish on our playing. There are things related to the rhythm, sound and many not related to actually playing but behaviour like listening, turning down volume, competing.
 
 
-#Playing Mistakes: 
-##pressing to hard (out of tune, to sharp),
-##pressing to weak (buzzing), 
-##pressing at wrong position (not near the fret)
-##using the wrong plek technique (making noise, flageoletts), 
+#Playing Mistakes
 
-##too much movement in left hand
+##Pressing to hard
+out of tune, to sharp
 
-##incorrect damping
+##Pressing to soft
+buzzing), 
 
-##overbending and underbending
+##Pressing at wrong position (not near the fret)
 
-##unclean transition
+##Using the wrong plek technique (making noise, flageoletts), 
 
-##playing with too many effects while practising
+##Too much movement in left hand
 
-#General Behaviour:
+##Incorrect damping
 
-##playing while others talk
+##Overbending and underbending
 
-##not turning down the volume
+##Unclean transition
 
-##not listening to yourself
+##Playing with too many effects while practising
 
-##not listening to others
+#General Behaviour
+
+##Playing while others talk, present, do
+
+##Not turning down the volume
+
+##Not listening to yourself
+
+##Not listening to others
 
 #Jam sessions and improvisation:
 
-##playing without grooving
+##Playing without grooving
 
-##limiting chords to the essential when playing with others
+##Limiting chords to the essential when playing with others
 
-##playing too fast
+If you play with many others you need to give room to the other instruments playing. You are not that special and everything should be in function of making music, not exhibiting the big ego.
+You can limit chords by not playing roots, fifth. 
 
-##playing with too many effects while practising
+##Playing with too many effects while practising
+as with limiting chords to the essential, the same rule applies to playing with effects. The more effect the more chaos
 
-##playing without having fun
+##Playing too fast
 
-##thinking of competition instead of making music 
+##Playing without having fun
 
-##playing wishy washy
+##Thinking of competition instead of making music 
 
-##no ideas: be silent and listen
+##Playing wishy washy
+
+##No ideas: be silent and listen
 
 #Missing skills:
 
