@@ -124,6 +124,8 @@ Making music is about, yeah right, making music. Have fun. Make mistakes and hav
 
 #### Thinking of competition instead of making music
 
+Like playing fast or extremly witty, making music is not a competition.
+It is, drum-roll, tada... about making music.
 
 #### Playing wishy washy
 
@@ -144,6 +146,10 @@ It's like the "ehm" when someone talks. Annoying and doesn't serve any real purp
 
 Make pauses, you don't need to play all the time. If you have a real nice phrase
 then let it stay in the room. Let it live and breath, don't kill it with a new phrase.
+
+#### Give space
+
+Give space to everyone. Enough said. It is your turn.
 
 # Practising habits
 
